@@ -4,7 +4,7 @@ Master Branch: [![Travis CI](https://travis-ci.org/xingePush/xinge-api-java.svg?
 ## 概述
 [信鸽](http://xg.qq.com) 是腾讯云提供的一款支持**百亿级**消息的移动App推送平台，开发者可以调用Java SDK访问信鸽推送服务。
 
-目前最新的SDK版本是 `1.2.2`，请及时更新SDK版本以获取最新的功能特性。
+目前最新的SDK版本是 `1.2.4.11`，请及时更新SDK版本以获取最新的功能特性。
 
 可以查看 [JavaDoc](https://xingepush.github.io/xinge-api-java/)
 
